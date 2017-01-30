@@ -46,5 +46,5 @@ end
 
 -- Start and load values
 BOT = nil
-our_id = 0
-started = false
+our_id = 244126743
+started = treu
